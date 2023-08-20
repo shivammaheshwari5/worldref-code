@@ -1,0 +1,7 @@
+.top_cards {
+  margin-top: 100px;
+}
+.deals_btn {
+  display: flex;
+  justify-content: space-between;
+}
